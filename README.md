@@ -1,6 +1,6 @@
 # Tech Talks
 
-Not organized in any particular order.
+A personal collection of great talks - most are technical, but some aren't. Not organized in any particular order.
 
 * [Spotify Engineering Culture part 1 (Agile Enterprise Transition with Scrum and Kanban)](https://www.youtube.com/watch?v=Mpsn3WaI_4k)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
