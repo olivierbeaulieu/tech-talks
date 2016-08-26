@@ -41,3 +41,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [Who are you, really: Safer and more convenient sign-in on the web - Google I/O 2016](https://www.youtube.com/watch?v=MnvUlGFb3GQ&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&index=84)
 * [GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill](https://www.youtube.com/watch?v=0oDporwhToQ)
 * [GOTO 2016 • Cracking the Cipher Challenge • Simon Singh](https://www.youtube.com/watch?v=T59hl2nlrT0)
+* [Meaningful Play: Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY)
