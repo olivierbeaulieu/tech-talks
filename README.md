@@ -43,3 +43,5 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [GOTO 2016 • Cracking the Cipher Challenge • Simon Singh](https://www.youtube.com/watch?v=T59hl2nlrT0)
 * [Meaningful Play: Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY)
 * [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
+
+f
