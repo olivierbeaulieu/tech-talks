@@ -43,3 +43,8 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [GOTO 2016 • Cracking the Cipher Challenge • Simon Singh](https://www.youtube.com/watch?v=T59hl2nlrT0)
 * [Meaningful Play: Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY)
 * [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
+* [GOTO 2013 • Why Code in Node.js often gets Rejected by SoundCloud • Phil Calcado](https://www.youtube.com/watch?v=kA4-b7hvWhg)
+* [GOTO 2016 • Psychology, Philosophy & Programming • Ted Neward](https://www.youtube.com/watch?v=XShcmCBK93E)
+* [AppSecEU 16 - Charlie Miller - Keynote - Bugs ruin everything](https://www.youtube.com/watch?v=9FXQK3JMZ0E&feature=youtu.be&list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL&t=458)
+* [Startupfest 2016: MARTY WEINER (Reddit) - How to Handle Explosive Startup Growth (and only slightly lose your sanity)](https://vimeo.com/178257376)
+* [GOTO 2016 • Building a High-Performance Team is Everyone's Job • Camille Fournier](https://www.youtube.com/watch?v=Pd7ObKc6NrY)
