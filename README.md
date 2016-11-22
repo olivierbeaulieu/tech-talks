@@ -48,3 +48,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [AppSecEU 16 - Charlie Miller - Keynote - Bugs ruin everything](https://www.youtube.com/watch?v=9FXQK3JMZ0E&feature=youtu.be&list=PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL&t=458)
 * [Startupfest 2016: MARTY WEINER (Reddit) - How to Handle Explosive Startup Growth (and only slightly lose your sanity)](https://vimeo.com/178257376)
 * [GOTO 2016 • Building a High-Performance Team is Everyone's Job • Camille Fournier](https://www.youtube.com/watch?v=Pd7ObKc6NrY)
+* [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.twicom/watch?v=sEciSlAClL8)
