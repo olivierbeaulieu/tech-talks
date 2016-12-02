@@ -49,3 +49,5 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [Startupfest 2016: MARTY WEINER (Reddit) - How to Handle Explosive Startup Growth (and only slightly lose your sanity)](https://vimeo.com/178257376)
 * [GOTO 2016 • Building a High-Performance Team is Everyone's Job • Camille Fournier](https://www.youtube.com/watch?v=Pd7ObKc6NrY)
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.twicom/watch?v=sEciSlAClL8)
+* [Martin Kleppe: 1024+ Seconds of JS Wizardry -- JSConf EU 2013](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
+* [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
