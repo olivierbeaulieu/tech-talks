@@ -52,3 +52,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [Martin Kleppe: 1024+ Seconds of JS Wizardry -- JSConf EU 2013](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
 * [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 * [Your Product is Already Obsolete – How to Survive by Des Traynor at Mind the Product San Francisco](https://vimeo.com/169687331)
+* [The Silver Bullet Syndrome by Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs)
