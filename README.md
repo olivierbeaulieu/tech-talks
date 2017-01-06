@@ -53,3 +53,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 * [Your Product is Already Obsolete – How to Survive by Des Traynor at Mind the Product San Francisco](https://vimeo.com/169687331)
 * [The Silver Bullet Syndrome by Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs)
+* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
