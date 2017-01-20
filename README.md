@@ -55,3 +55,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [The Silver Bullet Syndrome by Hadi Hariri](https://www.youtube.com/watch?v=3wyd6J3yjcs)
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Marco Cecconi The Architecture of Stack Overflow - Developer Conference 2013](https://www.youtube.com/watch?v=OGi8FT2j8hE)
+* [Principles of Lean Product Managment by Jez Humble](https://www.youtube.com/watch?v=cH6bnQzJojo)
