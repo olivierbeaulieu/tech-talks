@@ -56,3 +56,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Marco Cecconi The Architecture of Stack Overflow - Developer Conference 2013](https://www.youtube.com/watch?v=OGi8FT2j8hE)
 * [Principles of Lean Product Managment by Jez Humble](https://www.youtube.com/watch?v=cH6bnQzJojo)
+* [Online Controlled Experiments: Lessons from Running A/B/n Tests for 12 Years, Ron Kohavi](https://www.youtube.com/watch?v=qtboCGd_hTA)
