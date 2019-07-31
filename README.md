@@ -57,3 +57,4 @@ A personal collection of great talks - most are technical, but some aren't. Not 
 * [Marco Cecconi The Architecture of Stack Overflow - Developer Conference 2013](https://www.youtube.com/watch?v=OGi8FT2j8hE)
 * [Principles of Lean Product Managment by Jez Humble](https://www.youtube.com/watch?v=cH6bnQzJojo)
 * [Online Controlled Experiments: Lessons from Running A/B/n Tests for 12 Years, Ron Kohavi](https://www.youtube.com/watch?v=qtboCGd_hTA)
+* [HTTP headers for the responsible developer by Stefan Judis | JSConf EU 2019](https://www.youtube.com/watch?v=Mjqf2kkFLy8)
